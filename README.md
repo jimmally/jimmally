@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="center">📫 An Easy way to connect/remember me</h3>
+<h3 align="center">📫 An easy way to connect/remember me</h3>
 
 ###
 
