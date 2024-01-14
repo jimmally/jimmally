@@ -4,11 +4,6 @@
 
 <p align="center">Hello!  My name is Jimmy P{hy. I have 3+ years of experience in Software Engineering.</p>
 
-###
-
-<div align="center">
-  <img height="250" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif"  autoplay  />
-</div>
 <hr/>
 
 ###
