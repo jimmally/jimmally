@@ -78,12 +78,5 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="40" alt="jira logo"  />
 </div>
 
-<hr/>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jimmally/jimmally/output/snake.svg" alt="Snake animation" />
-
-###
