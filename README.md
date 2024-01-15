@@ -4,6 +4,8 @@
 
 ###
 
+![](https://komarev.com/ghpvc/?username=jimmally&color=green)
+
 <p align="center">Hello!  My name is Jimmy Phy. I have 3+ years of experience in Software Engineering.</p>
 
 <hr/>
