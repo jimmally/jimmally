@@ -8,8 +8,7 @@
 
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=jimmally&color=green)
-
+![](https://komarev.com/ghpvc/?username=jimmally&label=Visits&color=green)
 </div>
 
 <hr/>
