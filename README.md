@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">Hello!  My name is Jimmy P{hy. I have 3+ years of experience in Software Engineering.</p>
+<p align="center">Hello!  My name is Jimmy Phy. I have 3+ years of experience in Software Engineering.</p>
 
 <hr/>
 
@@ -31,7 +31,7 @@
 </div>
 <hr/>
 
-<h3 align="center">🔨 Tools of Trade</h3>
+<h3 align="center"> 💻 Technology Stack</h3>
 
 ###
 
