@@ -2,8 +2,6 @@
 <img src="https://i.imgur.com/yy8RBNL.png" alt="banner"/>
 
 
-###
-
 <div align="center">
   
 ![](https://komarev.com/ghpvc/?username=jimmally&label=Visits&color=green)
@@ -11,15 +9,13 @@
 
 <p align="center"> Hello! I'm a seasoned Software Engineer with over 3 years of hands-on experience. </p>
 
-<p align="center">  In my previous role, I played a pivotal role in crafting internal tools tailored to various departments, enhancing their daily operations and optimizing processes for efficiency. My expertise spans HTML, CSS, JavaScript, React, and MongoDB, showcased in recent projects. </p>
+<p align="center">  In my previous position, I played a pivotal role in crafting internal tools tailored to various departments, enhancing their daily operations and optimizing processes for efficiency. My expertise spans HTML, CSS, JavaScript, React, and MongoDB, showcased in recent projects. </p>
 
 <p align="center">  I take pride in contributing to the development of internal tools that empower individuals and in crafting delightful web applications. Let's collaborate and build something amazing together! </p>
 
-<hr/>
+<br>
 
-###
-
-<h3 align="center">📫 An easy way to connect/remember me</h3>
+<h2 align="center">📫 An easy way to connect/remember me</h2>
 
 ###
 
@@ -38,9 +34,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
-<hr/>
 
-<h3 align="center"> 💻 Technology Stack</h3>
+<br>
+
+<h2 align="center"> 💻 Technology Stack</h2>
 
 ###
 
